@@ -9,3 +9,11 @@ In this course, we will explore how to build web applications with the Ruby on R
 - Installing Software
 - Git and Github
 - Quiz: Module 1 Quiz | 94%
+
+#### Week 2
+##### Introduction to Ruby
+- Getting to Know Ruby
+- Collections and String APIs
+- Object Oriented Programming in Ruby
+- Unit Testing with RSpec
+- Assignment: Calculating Maximum Word Frequency
