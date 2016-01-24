@@ -18,7 +18,7 @@ In this course, we will explore how to build web applications with the Ruby on R
 - Unit Testing with RSpec
 - Assignment: Calculating Maximum Word Frequency
 
-#### Week #
+#### Week 3
 ##### Introduction to Ruby on Rails
 - Core Concepts
 - Diving Deeper Into Rails
