@@ -17,3 +17,11 @@ In this course, we will explore how to build web applications with the Ruby on R
 - Object Oriented Programming in Ruby
 - Unit Testing with RSpec
 - Assignment: Calculating Maximum Word Frequency
+
+#### Week #
+##### Introduction to Ruby on Rails
+- Core Concepts
+- Diving Deeper Into Rails
+- Building a Ruby on Rails Application
+- Deploying to Heroku and Verification
+- Assignment: Coding Assignment - Recipe Hunter
