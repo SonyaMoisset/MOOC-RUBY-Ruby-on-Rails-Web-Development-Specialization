@@ -11,3 +11,6 @@ This Specialization covers the fundamentals of web development with Ruby on Rail
 - Enrolled in the program
 - Finished Week 1 | Welcome and Setting Up the Development Environment in Course 1 | Ruby on Rails: An Introduction
 - Finished Week 2 | Introduction to Ruby in Course 1 | Ruby on Rails: An Introduction
+
+### 24/01/2016
+- Finished Week 3 | Introduction to Ruby on Rails in Course 1 | Ruby on Rails: An Introduction
